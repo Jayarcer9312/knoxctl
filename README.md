@@ -16,6 +16,12 @@ Designed as a streamlined, developer-friendly alternative to `kubectl`, it strip
 
 ---
 
+<div align="center">
+  <img src="assets/cli-interface.png" alt="Knoxctl CLI Interface" width="800"/>
+</div>
+
+---
+
 ## ✨ Why Knoxctl? (Features)
 
 🚀 **Blazing Fast**: Compiled directly to single-binary machine code using Go.  
@@ -171,4 +177,3 @@ Append these to **any** command to control your execution context:
 | `--kubeconfig <path>`    | Provide a custom kubeconfig file path (default: `~/.kube/config`) |
 
 ---
-
