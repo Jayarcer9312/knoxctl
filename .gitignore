@@ -25,3 +25,6 @@ kubeconfig
 # System Files
 .DS_Store
 Thumbs.db
+
+# Documentation
+details.md
