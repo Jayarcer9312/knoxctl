@@ -44,7 +44,7 @@ There are two ways to get **knoxctl** running on your system.
 
 ```bash
 # Download the latest Linux binary
-wget https://github.com/Rupeshs11/knoxctl/releases/download/v1.0.0/knoxctl-linux-amd64 -O knoxctl
+wget https://github.com/Rupeshs11/knoxctl/releases/download/v1.0.0/knoxctl
 
 # Make it executable
 chmod +x knoxctl
