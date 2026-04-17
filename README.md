@@ -41,7 +41,7 @@ There are two ways to get **knoxctl** running on your system.
 
 ### Option 1: Download Pre-built Binary (Recommended)
 
-**🐧 Linux / Ubuntu (WSL)**
+**🐧Linux / Ubuntu**
 
 ```bash
 # Download the latest Linux binary
